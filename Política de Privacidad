@@ -1,0 +1,52 @@
+# Política de Privacidad
+
+# Política de Privacidad de [Nombre de tu Aplicación/Agente de IA]
+
+**Última actualización:** 29 de agosto de 2026
+
+**1. Introducción**
+Esta Política de Privacidad describe cómo [Nombre de tu Aplicación] ("nosotros", "nuestro" o "la aplicación") recopila, utiliza y protege la información de los usuarios ("tú" o "el usuario"). Esta aplicación es desarrollada y mantenida por Alessandro Baldo, con sede en Montevideo, Uruguay. Al utilizar nuestro agente de inteligencia artificial, aceptas las prácticas descritas en este documento.
+
+**2. Información que recopilamos**
+Para proporcionar y mejorar nuestro servicio, podemos recopilar los siguientes tipos de información:
+
+- **Información de la cuenta de Google:** Si inicias sesión o integras la aplicación con tu cuenta de Google, recopilamos la información básica del perfil (nombre, dirección de correo electrónico, foto de perfil) y el token de acceso OAuth estrictamente necesario para el funcionamiento de la app.
+- **Datos de interacción con el Agente de IA:** Entradas de texto, consultas, comandos y archivos que proporciones al agente de IA para su procesamiento.
+- **Datos de uso técnico:** Información sobre cómo interactúas con la aplicación, direcciones IP, tipo de navegador, y tiempos de acceso, con fines de diagnóstico y seguridad.
+
+**3. Uso de la información y Cumplimiento con las Políticas de Google**
+Los datos recopilados se utilizan exclusivamente para:
+
+- Proporcionar, mantener y mejorar las funcionalidades del agente de IA.
+- Responder a tus solicitudes de soporte técnico.
+- Garantizar la seguridad de la aplicación.
+
+**Divulgación de Uso Limitado (Google API Services User Data Policy):**
+El uso y la transferencia por parte de [Nombre de tu Aplicación] a cualquier otra aplicación de la información recibida de las API de Google cumplirán con la Política de datos del usuario de los servicios API de Google, incluidos los requisitos de *Uso Limitado*.
+
+- **No usamos tus datos de Google para entrenar modelos de lenguaje general (LLMs)** que pertenezcan a terceros, a menos que otorgues un consentimiento explícito para ello.
+- Los datos de tu cuenta de Google no serán vendidos ni compartidos con terceros con fines publicitarios o comerciales ajenos al funcionamiento principal de la aplicación.
+
+**4. Compartir información con terceros**
+Dado que esta aplicación opera como un agente de inteligencia artificial, tus consultas pueden ser procesadas a través de proveedores de infraestructura de IA de terceros (por ejemplo, los proveedores de la API de LLM).
+
+- Estos proveedores actúan únicamente como procesadores de datos.
+- Están sujetos a estrictos acuerdos de confidencialidad y no están autorizados a utilizar tus datos personales para sus propios fines.
+- No compartimos tu información personal identificable con terceros ajenos a la operación técnica del agente.
+
+**5. Retención y Seguridad de los Datos**
+Mantenemos medidas de seguridad técnicas y organizativas estándar de la industria para proteger tus datos contra acceso, alteración, divulgación o destrucción no autorizados. Los datos de sesión y las consultas de la IA se retienen únicamente durante el tiempo necesario para cumplir con los propósitos descritos en esta política o según lo exija la ley. Los tokens de acceso de Google se almacenan de forma cifrada y se pueden revocar en cualquier momento.
+
+**6. Tus Derechos y Control sobre tus Datos**
+Tienes derecho a:
+
+- **Acceder, corregir o eliminar** tu información personal en cualquier momento.
+- **Revocar el acceso:** Puedes revocar el acceso de nuestra aplicación a tus datos de Google directamente desde la página de configuración de seguridad de tu cuenta de Google (https://myaccount.google.com/permissions). Al hacerlo, se eliminarán los tokens de acceso de nuestros sistemas.
+- **Solicitar la eliminación del historial:** Puedes solicitar que eliminemos todo tu historial de interacción con el agente de IA.
+
+**7. Contacto**
+Si tienes preguntas o inquietudes sobre esta Política de Privacidad o el tratamiento de tus datos, puedes comunicarte con el desarrollador:
+
+- **Responsable:** Alessandro Baldo
+- **Ubicación:** Montevideo, Uruguay
+- **Correo electrónico:** [Tu correo electrónico de contacto o soporte]
