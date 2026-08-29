@@ -1,0 +1,18 @@
+# Slack - Agente IA
+
+Slack - Agente IA es un agente de inteligencia artificial integrado directamente en Slack, diseñado para transformar la manera en que tu equipo accede a la información corporativa.
+
+Nuestra herramienta conecta tus canales de comunicación con tu base de conocimiento en Pinecone, permitiendo a los usuarios buscar, analizar y obtener respuestas instantáneas basadas exclusivamente en tus propios documentos internos. Además de ser un especialista en los datos de tu empresa, el agente funciona como un asistente de IA de propósito general, capaz de asistir en la redacción, programación, ideación y resolución de tareas cotidianas.
+
+Desarrollada por Alessandro Baldo, esta solución busca optimizar la productividad diaria centralizando el conocimiento. Con Slack - Agente IA, las respuestas precisas y el soporte de inteligencia artificial avanzada están siempre a un solo mensaje de distancia, dentro del entorno donde tu equipo ya colabora.
+
+**Características principales (para incluir en la ficha técnica):**
+
+- **Búsqueda Documental Inteligente:** Recuperación de contexto de alta precisión utilizando bases de datos vectoriales (Pinecone) sobre tus documentos privados.
+- **Asistente General Multiuso:** Capacidades completas de un LLM moderno para tareas que no requieran contexto interno.
+- **Integración Nativa en Slack:** Interfaz conversacional fluida sin necesidad de abandonar tu espacio de trabajo principal.
+
+Política de Privacidad
+
+
+Condiciones del Servicio
